@@ -1,0 +1,16 @@
+C:\Users\rlaur\source\repos\Sisteminis sd2\bin\Debug\net6.0-windows\Sisteminis sd2.exe
+C:\Users\rlaur\source\repos\Sisteminis sd2\bin\Debug\net6.0-windows\Sisteminis sd2.deps.json
+C:\Users\rlaur\source\repos\Sisteminis sd2\bin\Debug\net6.0-windows\Sisteminis sd2.runtimeconfig.json
+C:\Users\rlaur\source\repos\Sisteminis sd2\bin\Debug\net6.0-windows\Sisteminis sd2.dll
+C:\Users\rlaur\source\repos\Sisteminis sd2\bin\Debug\net6.0-windows\Sisteminis sd2.pdb
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis_sd2.Form1.resources
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.csproj.GenerateResource.cache
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.AssemblyInfoInputs.cache
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.AssemblyInfo.cs
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.csproj.CoreCompileInputs.cache
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.dll
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\refint\Sisteminis sd2.dll
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.pdb
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\Sisteminis sd2.genruntimeconfig.cache
+C:\Users\rlaur\source\repos\Sisteminis sd2\obj\Debug\net6.0-windows\ref\Sisteminis sd2.dll
